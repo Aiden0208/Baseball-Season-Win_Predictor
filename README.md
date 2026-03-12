@@ -10,7 +10,7 @@ This project predicts MLB team regular-season win totals using historical team b
   - Engineers features (Pythagorean wins, WAR-based metrics, lagged features)
   - Trains an ensemble model (`XGBRegressor`, `RandomForestRegressor`, and `Ridge` in a `VotingRegressor`)
   - Evaluates performance on recent seasons and saves a feature-importance chart
-- **car_analyzer.py**: Separate analysis script (not required to run the baseball predictor, but included in the repository).
+
 
 ### Setup
 
